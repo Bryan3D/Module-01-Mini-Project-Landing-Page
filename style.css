@@ -1,0 +1,14 @@
+div{
+    background-color: #000000;
+    color: #ffffff;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #000000;
+    text
+}
