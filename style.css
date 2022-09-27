@@ -1,4 +1,11 @@
-
+* {
+    box-sizing: border-box;
+    transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+}
 html {
     
     background-color: #252525;
@@ -41,6 +48,12 @@ html {
     text-transform: uppercase;
     box-shadow: 2px 2px 2px #00fff7;
 }
+.main-content{
+    flex:1;
+    margin:2%;
+    padding:2%;
+    overflow-y: scroll
+  }
 
 .sections p{
     display: inline-block;
@@ -122,8 +135,7 @@ div form{
     box-shadow: 2px 2px 2px #00fff7;
 }
 
-
-
+/* Request information alignment */
 
 .ReqCol input  {
     width: 25%;
