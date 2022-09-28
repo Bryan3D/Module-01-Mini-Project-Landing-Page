@@ -12,6 +12,8 @@ html {
     
 }
 
+
+
 .header{
     display: inline-block;
     width: 100%;
@@ -34,6 +36,38 @@ html {
     text-transform: uppercase;  ;
     
 }
+
+
+
+.img-row{
+    
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+   
+}
+.img-row img{
+    width: 100% auto;
+    height: 100% auto; 
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: block;
+    max-width: 100%;
+   
+    border-radius: 0;
+    border: 0;
+    box-shadow: 0 0 0 0;
+    transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+}
+
+
+
 
 .sections h2{
 
@@ -72,26 +106,10 @@ html {
     color: #00fff7
 }
 
-.img-row {
-    display:flex;
-  }
 
-.img-col {
-    position: relative;
-    flex: 1;
-    justify-content: center;
-    margin-bottom: 20px; 
-  }
-.img-col img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    padding-bottom:10px;
-    border-image: 10px;
-    border-color: aqua !important;
+
   
-  }
-
+ 
   /* Image Captions style */
   .caption{
     width: 100%;
@@ -122,8 +140,10 @@ a:-webkit-any-link {
 
 /* Client information */
 
-div form{
+form {
  
+    display: inline-block;
+    align-self: start;
     width: 100%;
     height: 1%;
     background-color: #000000;
@@ -151,6 +171,7 @@ div form{
     font-family: 'Roboto', sans-serif;
     text-transform: capitalize;
     box-shadow: 2px 2px 2px #00fff7;
+    
 }
 
 .ReqCol #name{
