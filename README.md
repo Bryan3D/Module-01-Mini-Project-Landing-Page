@@ -9,5 +9,6 @@ UCF Full Stack Developer Bootcamp | September 22
 4- Include CSS Style Sheet 
 5- This page can will finded click in the link below
 
- click here : [Landing Page Project](https://bryan3d.github.io/Module-01-Mini-Project-Landing-Page/)
+
+[Landing Page Project](https://bryan3d.github.io/Module-01-Mini-Project-Landing-Page/)
 
