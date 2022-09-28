@@ -10,4 +10,5 @@ UCF Full Stack Developer Bootcamp | September 22
 5- This page can will finded click in the link below
 
 
-Click here : bryan3d.github.io/Module-01-Mini-Project-Landing-Page/
+Website: 
+bryan3d.github.io/Module-01-Mini-Project-Landing-Page/
