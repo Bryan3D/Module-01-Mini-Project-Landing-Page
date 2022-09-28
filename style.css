@@ -139,7 +139,7 @@ a:-webkit-any-link {
 }
 
 /* Client information */
-
+/* I need to resolve how to align the form to the center of the page */
 form {
  
     display: inline-block;
