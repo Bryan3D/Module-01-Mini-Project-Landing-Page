@@ -1,2 +1,2 @@
-# Landing Page Challage
+# Landing Page Challenge
 
